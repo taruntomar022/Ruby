@@ -1,5 +1,5 @@
 def getss(str)
-    if str.length()==0
+    if str.length()==0 
         bres = []
         bres.push(".")
         return bres
