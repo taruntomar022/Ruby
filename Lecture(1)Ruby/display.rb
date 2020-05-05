@@ -1,5 +1,5 @@
 m = gets.chomp.to_i;
-n = gets.chomp.to_i;
+n = gets.chomp.to_i; 
 arr = []
 for i in (0..m-1)
     row = []
