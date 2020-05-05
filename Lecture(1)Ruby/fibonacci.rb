@@ -3,7 +3,7 @@ def fibonacci(num)
     j = 1
     for k in (1..num)
         if(i<num)
-            print(i.to_s + " ")
+            print(i.to_s + " ") 
         sum = i + j
         i = j
         j = sum
