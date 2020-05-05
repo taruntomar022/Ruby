@@ -4,7 +4,7 @@ arr = []
 for i in (0..m-1)
     row = []
     for j in (0..n-1)
-        val = gets.chomp.to_i;
+        val = gets.chomp.to_i; 
         row.push(val)
     end
     arr.push(row)
