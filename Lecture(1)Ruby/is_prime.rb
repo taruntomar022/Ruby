@@ -1,6 +1,6 @@
 def is_prime(num)
     div = 2
-    while(div*div<=num)
+    while(div*div<=num) 
         if(num%div==0)
             return false
         end
