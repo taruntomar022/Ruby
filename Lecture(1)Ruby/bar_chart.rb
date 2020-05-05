@@ -9,6 +9,6 @@ for floor in (max).downto(1)
         else
             print "*\t"
         end
-    end
+    end 
     puts
 end
